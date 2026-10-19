@@ -10,7 +10,7 @@ A RESTful Employee Management System developed using Java, Spring Boot, Spring D
 * Hibernate
 * MySQL
 * Maven
-* Postman
+* Swaggar
 
 ## ✨ Features
 
